@@ -11,6 +11,7 @@ import pandas as pd
 from tqdm import tqdm
 from gc import collect
 from memory_profiler import profile
+import line_profiler
 import os
 import random
 
